@@ -1,0 +1,111 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\there\Downloads\News\News\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\there\Downloads\News\News\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\there\Downloads\News\News\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\there\Downloads\News\News\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\there\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\afb0c08fda2e524e9494ce76fff463fa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\there\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\ca3b7ff1a9edbf71d239c98f4b734831\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\there\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\c14e6ebce679525e21da42f107fb0ff1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\there\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b172d56f6a6be5dc01c77a8d3aa12eaf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\there\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f7548e4b1eebd51c2bcba2b8ea39b771\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\there\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\fe5b67a4eca68f8811220ba240b22603\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\there\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\f983e43dc1cc506026cd6dd7e95ce170\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\there\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\823f450f1a00f1a5b4c3a4e37fe18105\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\there\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\bfcbc7a4d0110016e1ad8798aba6ef01\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\there\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e38fb4da84b47ab325b4a6208914a2a8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\there\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\da8bfe735f4cad46434f83e074b11184\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\there\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\857000e512ca2ed923c143ad8fb2afc6\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\there\Downloads\News\News\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\there\Downloads\News\News\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\there\Downloads\News\News\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from C:\Users\there\Downloads\News\News\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\there\Downloads\News\News\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\there\Downloads\News\News\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\there\Downloads\News\News\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\there\Downloads\News\News\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\there\Downloads\News\News\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\there\Downloads\News\News\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\there\Downloads\News\News\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\there\Downloads\News\News\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\there\Downloads\News\News\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\there\Downloads\News\News\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from C:\Users\there\Downloads\News\News\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\there\Downloads\News\News\app\src\main\AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from C:\Users\there\Downloads\News\News\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from C:\Users\there\Downloads\News\News\app\src\main\AndroidManifest.xml:7:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\there\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\ca3b7ff1a9edbf71d239c98f4b734831\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\there\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\ca3b7ff1a9edbf71d239c98f4b734831\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\there\Downloads\News\News\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\there\Downloads\News\News\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Users\there\Downloads\News\News\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Users\there\Downloads\News\News\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\there\Downloads\News\News\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\there\Downloads\News\News\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.example.dev.news.NewsActivity
+ADDED from C:\Users\there\Downloads\News\News\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from C:\Users\there\Downloads\News\News\app\src\main\AndroidManifest.xml:14:19-67
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\there\Downloads\News\News\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\there\Downloads\News\News\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\there\Downloads\News\News\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\there\Downloads\News\News\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\there\Downloads\News\News\app\src\main\AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from C:\Users\there\Downloads\News\News\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\there\Downloads\News\News\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\there\Downloads\News\News\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\there\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\afb0c08fda2e524e9494ce76fff463fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\there\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\afb0c08fda2e524e9494ce76fff463fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\there\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\ca3b7ff1a9edbf71d239c98f4b734831\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\there\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\ca3b7ff1a9edbf71d239c98f4b734831\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\there\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\c14e6ebce679525e21da42f107fb0ff1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\there\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\c14e6ebce679525e21da42f107fb0ff1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\there\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b172d56f6a6be5dc01c77a8d3aa12eaf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\there\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b172d56f6a6be5dc01c77a8d3aa12eaf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\there\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f7548e4b1eebd51c2bcba2b8ea39b771\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\there\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f7548e4b1eebd51c2bcba2b8ea39b771\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\there\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\fe5b67a4eca68f8811220ba240b22603\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\there\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\fe5b67a4eca68f8811220ba240b22603\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\there\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\f983e43dc1cc506026cd6dd7e95ce170\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\there\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\f983e43dc1cc506026cd6dd7e95ce170\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\there\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\823f450f1a00f1a5b4c3a4e37fe18105\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\there\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\823f450f1a00f1a5b4c3a4e37fe18105\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\there\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\bfcbc7a4d0110016e1ad8798aba6ef01\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\there\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\bfcbc7a4d0110016e1ad8798aba6ef01\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\there\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e38fb4da84b47ab325b4a6208914a2a8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\there\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e38fb4da84b47ab325b4a6208914a2a8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\there\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\da8bfe735f4cad46434f83e074b11184\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\there\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\da8bfe735f4cad46434f83e074b11184\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\there\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\857000e512ca2ed923c143ad8fb2afc6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\there\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\857000e512ca2ed923c143ad8fb2afc6\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\there\Downloads\News\News\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\there\Downloads\News\News\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\there\Downloads\News\News\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\there\Downloads\News\News\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\there\Downloads\News\News\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\there\Downloads\News\News\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\there\Downloads\News\News\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\there\Downloads\News\News\app\src\main\AndroidManifest.xml
